@@ -1,0 +1,29 @@
+body
+{
+    font-family: 'Baloo Thambi 2', cursive;
+}
+.sections
+{
+    position: relative;
+    width: 100%;
+}
+.sections .calc
+{
+    float: left;
+    padding: 20px 0px;
+    color: #ffffff;
+}
+.sections .calc i
+{
+    margin-bottom: 5px;
+}
+.footer
+{
+    background-color: #000000;
+    color: gray;
+    margin: 10px 0;
+}
+.footer p
+{
+    padding: 20px 0;
+}
